@@ -334,29 +334,7 @@ My repository portfolio also includes:
 </p>
 
 <p align="center">
-  <i>Automatically generated from the code in my public GitHub repositories.</i>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=pallavibehurageek-cyber&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pallavibehurageek-cyber&theme=tokyo-night&hide_border=true&area=true&custom_title=Pallavi%27s%20Contribution%20Activity"
-    alt="Contribution Activity"
-  />
+  <i>Automatically generated from code in my public GitHub repositories.</i>
 </p>
 
 ---
@@ -409,16 +387,13 @@ My repository portfolio also includes:
                      CONFIGURATION
 =========================================================
 
-                    GITHUB ACCOUNT
-=========================================================
-
-Username:
+GITHUB USERNAME
+---------------------------------------------------------
 pallavibehurageek-cyber
 
 
-                    VISUAL THEME
-=========================================================
-
+VISUAL THEME
+---------------------------------------------------------
 Primary analytics theme:
 tokyonight
 
@@ -426,13 +401,11 @@ Used for:
 - GitHub Stats
 - GitHub Streak
 - Language Pie
-- GitHub Trophies
 - Engineering Quote
 
 
-                    GITHUB STATS
-=========================================================
-
+GITHUB STATS
+---------------------------------------------------------
 Service:
 https://github-readme-stats.vercel.app/
 
@@ -444,12 +417,14 @@ rank_icon=github
 theme=tokyonight
 hide_border=true
 
-You can later add:
+Optional:
 hide=issues,prs
 
 
-                    LANGUAGE PIE
-=========================================================
+LANGUAGE PIE
+---------------------------------------------------------
+Service:
+https://github-readme-stats.vercel.app/
 
 Current:
 layout=pie
@@ -457,17 +432,15 @@ langs_count=10
 theme=tokyonight
 hide_border=true
 
-The profile README repository is excluded so that the
-Markdown used for this README does not distort the chart.
+The profile README repository is excluded:
+exclude_repo=pallavibehurageek-cyber
 
-To exclude another repository:
+Add more repositories to exclude with:
+exclude_repo=repo1,repo2
 
-&exclude_repo=repo1,repo2
 
-
-                    STREAK
-=========================================================
-
+GITHUB STREAK
+---------------------------------------------------------
 Service:
 https://streak-stats.demolab.com/
 
@@ -477,43 +450,31 @@ hide_border=true
 mode=daily
 
 
-                    GITHUB TROPHIES
-=========================================================
-
-Current:
-theme=tokyonight
-row=1
-column=6
-no-frame=true
-no-bg=true
-margin-w=15
-
-You can change:
-column=7
-or:
-row=2
+WHY THERE IS NO TROPHY WIDGET
+---------------------------------------------------------
+The public GitHub Profile Trophy deployment has had
+403/503/deployment-paused problems, so it has intentionally
+been removed rather than using an unstable third-party mirror.
 
 
-                    CONTRIBUTION GRAPH
-=========================================================
+WHY THERE IS NO ACTIVITY GRAPH
+---------------------------------------------------------
+The public github-readme-activity-graph Vercel deployment
+is currently returning HTTP 402 because the upstream
+deployment is billing-locked/paused.
 
-Current:
-theme=tokyo-night
-hide_border=true
-area=true
+It has intentionally been removed.
 
 
-                    PROJECT MANAGEMENT
-=========================================================
-
+PROJECT MAINTENANCE
+---------------------------------------------------------
 When a stronger project is completed:
 
-1. Add it to the appropriate domain.
+1. Add it to the correct domain.
 2. Add it to "More Projects".
 3. Promote it to "Selected Projects" if it becomes
-   one of the strongest repositories.
-4. Replace the weakest featured project instead of
-   making the README endlessly longer.
+   one of your strongest repositories.
+4. Replace the weakest featured project.
 
 Keep:
 "Explore All My Projects"
