@@ -2,57 +2,42 @@
 
 ### 📡 Prefinal-Year B.Tech ECE | RF & Antennas | Embedded Systems | RTL Design | AI/ML
 
-I'm a **Prefinal-Year B.Tech Electronics & Communication Engineering student** passionate about exploring **new and emerging technologies** and turning ideas into practical engineering projects.
+I’m a **Prefinal-Year Electronics & Communication Engineering student** passionate about **new technologies, engineering innovation, and continuous learning**.
 
-My interests span across **RF & microwave engineering, antenna design, embedded systems, digital hardware, RTL design, hardware acceleration, and AI/ML**.
+My interests span **RF & microwave engineering, antenna design, embedded systems, RTL/digital hardware, computer architecture, and AI/ML**.
 
-I enjoy learning across domains and combining **hardware, software, simulation, and intelligent systems** to solve engineering problems.
+I enjoy exploring different technologies, building projects, understanding how systems work, and combining **hardware + software + simulation + intelligent systems** to solve real engineering problems.
 
 ---
 
 ## 💫 About Me
 
-🔹 Passionate about **new technologies, engineering innovation, and continuous learning**
+🔹 Passionate about **new and emerging technologies**
 
 🔹 Interested in **RF, microwave engineering, antennas, and electromagnetics**
 
-🔹 Building projects in **embedded systems, digital design, Verilog/SystemVerilog, and hardware acceleration**
+🔹 Building systems using **Verilog, SystemVerilog, embedded platforms, and digital hardware**
 
 🔹 Exploring **Artificial Intelligence & Machine Learning** alongside my core ECE interests
 
-🔹 Interested in understanding how **hardware and software can work together** to build efficient systems
+🔹 Interested in **hardware-software co-design and intelligent hardware systems**
 
-🔹 I learn by **designing, simulating, implementing, debugging, and improving**
+🔹 I learn by **building → simulating → debugging → analyzing → improving**
 
-### 🚀 Current Focus
+### 🚀 Currently Exploring
 
-📡 Antenna Design & RF Engineering
+📡 RF & Antenna Engineering
 🛰️ Reconfigurable Intelligent Surfaces
 💻 RTL & Digital Hardware Design
 🔌 Embedded Systems
-🔐 Hardware Acceleration
+🧠 Computer Architecture
 🤖 Artificial Intelligence & Machine Learning
-🧪 Electromagnetic & Hardware Simulation
+🧪 Electromagnetic Simulation
+⚡ Emerging Technologies
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/pallavi-behura-547329214)
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/pallavibehurageek-cyber)
-
-<!-- Add these later if needed
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
--->
-
----
-
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ### 👩‍💻 Programming & HDL
 
@@ -61,9 +46,9 @@ I enjoy learning across domains and combining **hardware, software, simulation, 
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge\&logo=python\&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23B2B7F8.svg?style=for-the-badge\&logo=verilog\&logoColor=black)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23007ACC.svg?style=for-the-badge\&logo=systemverilog\&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23007ACC.svg?style=for-the-badge\&logoColor=white)
 
-### 📡 RF / Antenna / EDA
+### 📡 RF / Antennas / EDA
 
 ![HFSS](https://img.shields.io/badge/ANSYS_HFSS-%23FFB71B.svg?style=for-the-badge\&logo=ansys\&logoColor=black)
 ![FEKO](https://img.shields.io/badge/Altair_FEKO-%23E41E25.svg?style=for-the-badge\&logo=altair\&logoColor=white)
@@ -71,7 +56,7 @@ I enjoy learning across domains and combining **hardware, software, simulation, 
 
 `Antenna Design` `RF & Microwave` `Electromagnetics` `RIS` `Array Analysis` `Phase Quantization`
 
-### 🔌 Embedded & Development Tools
+### 🔌 Embedded / Development
 
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge\&logo=espressif\&logoColor=white)
@@ -83,77 +68,128 @@ I enjoy learning across domains and combining **hardware, software, simulation, 
 
 ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge\&logo=python\&logoColor=white)
 
-Currently exploring:
-
 `Machine Learning` `Artificial Intelligence` `Computer Vision` `Data Analysis` `Intelligent Systems`
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Projects
 
-### 📡 10 GHz Reconfigurable Intelligent Surface
+> A selection of my work across **RTL, embedded systems, computer architecture, AI/ML-oriented applications, and core ECE**.
 
-**RF / Microwave • FEKO • Array Synthesis • Beam Steering**
+### ⚙️ Weighted Round-Robin Arbiter in Verilog
 
-Designed and analyzed an **8×8 Reconfigurable Intelligent Surface** using phase-quantized unit cells for controlled reflection and beam steering.
+**Verilog • RTL • Digital Design • Simulation**
 
-The work covers **unit-cell characterization, phase-to-width mapping, array synthesis, full-wave verification, and analytical array-factor analysis**.
+Parameterized RTL implementation of a **weighted round-robin arbiter** with configurable requester weights, priority rotation, credit-based scheduling, clock/reset control, and a dedicated simulation testbench.
 
----
+**Why it stands out:** demonstrates RTL design, arbitration logic, parameterization, and verification.
 
-### 🔐 AES-CMAC Hardware Accelerator
-
-**Verilog • RTL • Hardware Acceleration • Cryptography**
-
-Developed a hardware-oriented **AES-CMAC accelerator** with multiple architectural variants for studying implementation trade-offs and hardware efficiency.
+🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/Weighted-Round-Robin-Arbiter-Verilog)**
 
 ---
 
-### 📐 Vivaldi Antenna
-
-**Antenna Design • HFSS • MATLAB • Electromagnetic Simulation**
-
-Designed and analyzed a **Vivaldi antenna** with emphasis on electromagnetic behaviour, geometry, RF performance, and simulation-based design analysis.
-
----
-
-### 📡 SIW Slot Antenna
-
-**HFSS • SIW • Slot Antenna • RF & Microwave**
-
-Designed a **Substrate Integrated Waveguide slot antenna** and investigated its electromagnetic characteristics through simulation and design refinement.
-
----
-
-### ⚙️ Weighted Round-Robin Arbiter
-
-**Verilog • RTL • Digital Design**
-
-Implemented a **parameterized weighted round-robin arbiter** with configurable requester weights, arbitration logic, clock/reset handling, and verification support.
-
----
-
-### 🧠 RISC Processor Design
+### 🧠 RISC-MIPS32 CPU
 
 **Verilog • Computer Architecture • RTL**
 
-Worked on a **RISC processor implementation** focusing on datapath, control logic, instruction flow, and hardware-oriented design principles.
+A **32-bit pipelined RISC processor** implemented in Verilog with a five-stage instruction pipeline and simulation-based verification.
 
----
+**Why it stands out:** demonstrates understanding of processor datapaths, control, pipelining, and hardware architecture.
 
-### 🔌 APB RAM / SystemVerilog Design
-
-**SystemVerilog • APB • RTL • Memory Design**
-
-Implemented an **APB-compatible RAM design** exploring bus interfacing, memory logic, RTL architecture, and hardware verification.
+🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/RISC-MIPS32-CPU-Verilog)**
 
 ---
 
 ### 🚗 Gesture-Based Vehicle Control
 
-**Python • OpenCV • MediaPipe • ESP32**
+**Python • Computer Vision • ESP32 • Embedded Systems**
 
-Built a gesture-controlled robotic vehicle using **computer vision and embedded control**, converting hand gestures into commands for an ESP32-based system.
+A gesture-controlled robotic vehicle combining **computer vision with embedded control**. Hand gestures are processed using Python/OpenCV/MediaPipe and commands are sent to an ESP32 for vehicle movement.
+
+**Why it stands out:** combines software, computer vision, wireless communication, embedded hardware, and robotics.
+
+🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/Gesture-Based-Vehicle-Control)**
+
+---
+
+### 🎯 Extended Kalman Filter Object Tracking
+
+**Python • Kalman Filtering • State Estimation**
+
+Implemented **object tracking and state estimation using an Extended Kalman Filter (EKF)**.
+
+**Why it stands out:** shows mathematical modelling, estimation, algorithmic thinking, and Python-based implementation.
+
+🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/extended-kalman-object-tracking)**
+
+---
+
+### 🌡️ Adaptive Temperature-Based DC Motor Control
+
+**Embedded Systems • PWM • Sensors • Motor Control**
+
+A temperature-aware motor control system that uses **temperature sensing and PWM-based speed control** to automatically adjust DC motor behaviour.
+
+**Why it stands out:** demonstrates sensor interfacing, control logic, PWM, and practical embedded-system design.
+
+🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/adaptive-temperature-based-dc-motor-control)**
+
+---
+
+### 🗳️ Electronic Voting Machine Using Verilog
+
+**Verilog • Xilinx Vivado • Digital Logic • Simulation**
+
+A Verilog-based **electronic voting machine** with candidate selection, vote counting, and result display, implemented and simulated using Xilinx Vivado.
+
+**Why it stands out:** demonstrates RTL fundamentals, sequential logic, state-based behaviour, and simulation.
+
+🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/electronic-voting-machine-using-verilog-in-xilinx-vivado)**
+
+---
+
+# 📡 RF & Antenna Work
+
+My portfolio also includes projects in **antenna design, electromagnetic simulation, and RF engineering**, including work involving **Vivaldi antennas, SIW antennas, and reconfigurable intelligent surfaces**.
+
+These projects represent the **core ECE/RF side** of my portfolio alongside my digital-hardware projects.
+
+### 🔎 Want to explore all of them?
+
+<p align="center">
+
+<a href="https://github.com/pallavibehurageek-cyber?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_MY_PROJECTS-View_All_Repositories-8A2BE2?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+# ⭐ Why My Projects Are Here
+
+I like working across multiple layers of engineering:
+
+```text
+        ELECTROMAGNETICS
+              │
+              ▼
+       RF / ANTENNAS
+              │
+              ▼
+      EMBEDDED SYSTEMS
+              │
+              ▼
+       DIGITAL HARDWARE
+              │
+              ▼
+          RTL / CPU
+              │
+              ▼
+        AI / MACHINE LEARNING
+```
+
+My goal is to keep exploring how these areas can connect to create **smarter and more efficient engineering systems**.
 
 ---
 
@@ -175,7 +211,9 @@ Built a gesture-controlled robotic vehicle using **computer vision and embedded 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibehurageek-cyber&layout=pie&langs_count=10&theme=radical&hide_border=false&custom_title=Languages%20I've%20Used" />
 </p>
 
-This chart is generated automatically from my public GitHub repositories and updates as my projects evolve.
+<p align="center">
+  <i>This chart updates automatically as my public repositories evolve.</i>
+</p>
 
 ---
 
@@ -187,21 +225,19 @@ This chart is generated automatically from my public GitHub repositories and upd
 
 ---
 
-# ✨ What I'm Exploring
+# 🌐 Connect With Me
 
-🔭 **RF & Antenna Engineering**
+<p align="center">
 
-📡 **Reconfigurable Intelligent Surfaces**
+<a href="https://github.com/pallavibehurageek-cyber">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
 
-⚙️ **RTL & Digital Hardware**
+<a href="https://linkedin.com/in/pallavi-behura-547329214">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-🔌 **Embedded Systems**
-
-🤖 **AI & Machine Learning**
-
-🧠 **Intelligent Hardware Systems**
-
-🚀 **Emerging Technologies**
+</p>
 
 ---
 
@@ -213,52 +249,44 @@ This chart is generated automatically from my public GitHub repositories and upd
 
 ---
 
-# 📈 Profile Activity
+# ⚡ My Engineering Philosophy
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavibehurageek-cyber&theme=react-dark&hide_border=false" />
+
+### BUILD → SIMULATE → ANALYZE → LEARN → IMPROVE
+
 </p>
 
 ---
 
-## ⚙️ Configuration
+<p align="center">
+
+### 🚀 Exploring. Building. Learning. Innovating.
+
+</p>
 
 <!--
-### GitHub Stats
+=========================================================
+CONFIGURATION
+=========================================================
 
-Change:
-username=YOUR_USERNAME
-theme=radical
+1. GitHub username:
+   pallavibehurageek-cyber
 
-### Language Pie Chart
+2. Dynamic language pie:
+   layout=pie
 
-layout=pie
-langs_count=10
-theme=radical
+3. Number of languages:
+   langs_count=10
 
-### Language Donut
+4. Change theme:
+   theme=radical
 
-layout=donut
-langs_count=8
+5. Add or remove project sections whenever your portfolio changes.
 
-### Excluding Repositories
+6. Keep the "Explore All My Projects" button.
+   This directs recruiters to the complete repository list.
 
-Add:
-&exclude_repo=repo1,repo2
-
-### Optional Links
-
-Replace:
-YOUR_PORTFOLIO_URL
-YOUR_EMAIL
-
-Keep this README updated whenever your technical focus or major projects change.
+7. Do not add projects you have not actually completed.
+=========================================================
 -->
-
----
-
-<p align="center">
-
-### ⚡ Build • Simulate • Learn • Innovate • Improve
-
-</p>
