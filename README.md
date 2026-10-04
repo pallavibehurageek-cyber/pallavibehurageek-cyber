@@ -2,11 +2,11 @@
 
 ### 📡 Prefinal-Year B.Tech ECE | RF & Antennas | Embedded Systems | RTL Design | AI/ML
 
-I’m a **Prefinal-Year Electronics & Communication Engineering student** passionate about **new technologies, engineering innovation, and continuous learning**.
+I'm a **Prefinal-Year Electronics & Communication Engineering student** passionate about **new technologies, engineering innovation, and continuous learning**.
 
-My interests span **RF & microwave engineering, antenna design, embedded systems, RTL/digital hardware, computer architecture, and AI/ML**.
+My interests span across **RF & microwave engineering, antenna design, embedded systems, RTL/digital hardware, computer architecture, and AI/ML**.
 
-I enjoy exploring different technologies, building projects, understanding how systems work, and combining **hardware + software + simulation + intelligent systems** to solve real engineering problems.
+I enjoy exploring different technologies, building projects, understanding how systems work, and combining **hardware + software + simulation + intelligent systems** to solve engineering problems.
 
 ---
 
@@ -20,7 +20,7 @@ I enjoy exploring different technologies, building projects, understanding how s
 
 🔹 Exploring **Artificial Intelligence & Machine Learning** alongside my core ECE interests
 
-🔹 Interested in **hardware-software co-design and intelligent hardware systems**
+🔹 Interested in **hardware-software co-design and intelligent systems**
 
 🔹 I learn by **building → simulating → debugging → analyzing → improving**
 
@@ -72,124 +72,147 @@ I enjoy exploring different technologies, building projects, understanding how s
 
 ---
 
-# 🚀 Featured Projects
+# 🧩 Domains I'm Exploring
 
-> A selection of my work across **RTL, embedded systems, computer architecture, AI/ML-oriented applications, and core ECE**.
+## 📡 RF, Antennas & Electromagnetics
 
-### ⚙️ Weighted Round-Robin Arbiter in Verilog
+Interested in designing and analyzing electromagnetic structures and exploring modern wireless technologies.
 
-**Verilog • RTL • Digital Design • Simulation**
+**Areas**
 
-Parameterized RTL implementation of a **weighted round-robin arbiter** with configurable requester weights, priority rotation, credit-based scheduling, clock/reset control, and a dedicated simulation testbench.
+`Antenna Design`
+`RF & Microwave Engineering`
+`Electromagnetics`
+`Vivaldi Antennas`
+`SIW Structures`
+`Reconfigurable Intelligent Surfaces`
+`Array Analysis`
+`Beam Steering`
 
-**Why it stands out:** demonstrates RTL design, arbitration logic, parameterization, and verification.
+**Current / Past Work**
 
-🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/Weighted-Round-Robin-Arbiter-Verilog)**
+* 10 GHz Reconfigurable Intelligent Surface
+* Vivaldi Antenna Design
+* SIW Slot Antenna
 
----
-
-### 🧠 RISC-MIPS32 CPU
-
-**Verilog • Computer Architecture • RTL**
-
-A **32-bit pipelined RISC processor** implemented in Verilog with a five-stage instruction pipeline and simulation-based verification.
-
-**Why it stands out:** demonstrates understanding of processor datapaths, control, pipelining, and hardware architecture.
-
-🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/RISC-MIPS32-CPU-Verilog)**
-
----
-
-### 🚗 Gesture-Based Vehicle Control
-
-**Python • Computer Vision • ESP32 • Embedded Systems**
-
-A gesture-controlled robotic vehicle combining **computer vision with embedded control**. Hand gestures are processed using Python/OpenCV/MediaPipe and commands are sent to an ESP32 for vehicle movement.
-
-**Why it stands out:** combines software, computer vision, wireless communication, embedded hardware, and robotics.
-
-🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/Gesture-Based-Vehicle-Control)**
+🔗 **[Explore All RF & Antenna Work →](https://github.com/pallavibehurageek-cyber?tab=repositories)**
 
 ---
 
-### 🎯 Extended Kalman Filter Object Tracking
+## ⚙️ RTL, Digital Design & Hardware
 
-**Python • Kalman Filtering • State Estimation**
+Interested in building efficient digital systems and understanding hardware from architecture to RTL implementation.
 
-Implemented **object tracking and state estimation using an Extended Kalman Filter (EKF)**.
+**Areas**
 
-**Why it stands out:** shows mathematical modelling, estimation, algorithmic thinking, and Python-based implementation.
+`Verilog`
+`SystemVerilog`
+`RTL Design`
+`Digital Logic`
+`Arbitration`
+`Processor Design`
+`Memory Interfaces`
+`Hardware Verification`
 
-🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/extended-kalman-object-tracking)**
+**Current / Past Work**
 
----
+* Weighted Round-Robin Arbiter
+* RISC-MIPS32 CPU
+* APB RAM
+* Electronic Voting Machine
 
-### 🌡️ Adaptive Temperature-Based DC Motor Control
-
-**Embedded Systems • PWM • Sensors • Motor Control**
-
-A temperature-aware motor control system that uses **temperature sensing and PWM-based speed control** to automatically adjust DC motor behaviour.
-
-**Why it stands out:** demonstrates sensor interfacing, control logic, PWM, and practical embedded-system design.
-
-🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/adaptive-temperature-based-dc-motor-control)**
-
----
-
-### 🗳️ Electronic Voting Machine Using Verilog
-
-**Verilog • Xilinx Vivado • Digital Logic • Simulation**
-
-A Verilog-based **electronic voting machine** with candidate selection, vote counting, and result display, implemented and simulated using Xilinx Vivado.
-
-**Why it stands out:** demonstrates RTL fundamentals, sequential logic, state-based behaviour, and simulation.
-
-🔗 **[VIEW REPOSITORY →](https://github.com/pallavibehurageek-cyber/electronic-voting-machine-using-verilog-in-xilinx-vivado)**
+🔗 **[Explore RTL & Digital Projects →](https://github.com/pallavibehurageek-cyber?tab=repositories)**
 
 ---
 
-# 📡 RF & Antenna Work
+## 🔌 Embedded Systems & Control
 
-My portfolio also includes projects in **antenna design, electromagnetic simulation, and RF engineering**, including work involving **Vivaldi antennas, SIW antennas, and reconfigurable intelligent surfaces**.
+Interested in combining sensors, controllers, communication, and hardware to create practical systems.
 
-These projects represent the **core ECE/RF side** of my portfolio alongside my digital-hardware projects.
+**Areas**
 
-### 🔎 Want to explore all of them?
+`Embedded Systems`
+`ESP32`
+`Arduino`
+`PWM`
+`Sensor Interfacing`
+`Motor Control`
+`Hardware Control`
+
+**Current / Past Work**
+
+* Gesture-Based Vehicle Control
+* Adaptive Temperature-Based DC Motor Control
+* Embedded control projects
+
+🔗 **[Explore Embedded Projects →](https://github.com/pallavibehurageek-cyber?tab=repositories)**
+
+---
+
+## 🧠 Computer Architecture
+
+Exploring how processors, datapaths, control units, and hardware architectures are designed and implemented.
+
+**Areas**
+
+`CPU Design`
+`Pipelining`
+`Datapath & Control`
+`Instruction Processing`
+`RTL Architecture`
+
+🔗 **[Explore Architecture Projects →](https://github.com/pallavibehurageek-cyber?tab=repositories)**
+
+---
+
+## 🤖 AI / ML & Intelligent Systems
+
+I’m actively exploring **Artificial Intelligence and Machine Learning** and how intelligent algorithms can be integrated with engineering systems.
+
+**Areas**
+
+`Machine Learning`
+`Computer Vision`
+`Object Tracking`
+`Data Analysis`
+`Intelligent Systems`
+
+**Current / Past Work**
+
+* EKF-based Object Tracking
+* Computer-Vision-based Embedded Control
+
+🚀 **More AI/ML projects coming as I explore the field further.**
+
+🔗 **[Explore AI/ML Projects →](https://github.com/pallavibehurageek-cyber?tab=repositories)**
+
+---
+
+# 🚀 Explore My Complete Project Portfolio
+
+Instead of limiting my profile to a fixed “top projects” list, I maintain projects across multiple engineering domains.
+
+### 📡 RF & Antennas
+
+### ⚙️ RTL & Digital Design
+
+### 🔌 Embedded Systems
+
+### 🧠 Computer Architecture
+
+### 🤖 AI / Machine Learning
+
+### 🧪 Simulation & Engineering Analysis
 
 <p align="center">
 
 <a href="https://github.com/pallavibehurageek-cyber?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_MY_PROJECTS-View_All_Repositories-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_MY_PROJECTS-View_My_Repositories-8A2BE2?style=for-the-badge" />
 </a>
 
 </p>
 
----
-
-# ⭐ Why My Projects Are Here
-
-I like working across multiple layers of engineering:
-
-```text
-        ELECTROMAGNETICS
-              │
-              ▼
-       RF / ANTENNAS
-              │
-              ▼
-      EMBEDDED SYSTEMS
-              │
-              ▼
-       DIGITAL HARDWARE
-              │
-              ▼
-          RTL / CPU
-              │
-              ▼
-        AI / MACHINE LEARNING
-```
-
-My goal is to keep exploring how these areas can connect to create **smarter and more efficient engineering systems**.
+> **New projects will continuously be added as I learn, experiment, and build.**
 
 ---
 
@@ -212,7 +235,7 @@ My goal is to keep exploring how these areas can connect to create **smarter and
 </p>
 
 <p align="center">
-  <i>This chart updates automatically as my public repositories evolve.</i>
+  <i>Automatically updated as my public GitHub repositories evolve.</i>
 </p>
 
 ---
@@ -270,23 +293,24 @@ My goal is to keep exploring how these areas can connect to create **smarter and
 CONFIGURATION
 =========================================================
 
-1. GitHub username:
-   pallavibehurageek-cyber
+GitHub username:
+pallavibehurageek-cyber
 
-2. Dynamic language pie:
-   layout=pie
+Dynamic language chart:
+layout=pie
 
-3. Number of languages:
-   langs_count=10
+Number of languages:
+langs_count=10
 
-4. Change theme:
-   theme=radical
+Theme:
+theme=radical
 
-5. Add or remove project sections whenever your portfolio changes.
+Whenever you complete a stronger project:
+1. Add it under the correct domain.
+2. Add a repository link if useful.
+3. Keep older projects in the repository list.
+4. The rest of the README does not need to change.
 
-6. Keep the "Explore All My Projects" button.
-   This directs recruiters to the complete repository list.
-
-7. Do not add projects you have not actually completed.
+The "Explore All My Projects" button intentionally remains permanent.
 =========================================================
 -->
