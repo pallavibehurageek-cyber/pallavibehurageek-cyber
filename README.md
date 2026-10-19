@@ -107,185 +107,113 @@ Interested in designing and analyzing electromagnetic structures and exploring m
 
 ## ⚙️ RTL, Digital Design & Hardware
 
-Interested in building efficient digital systems and understanding hardware from **architecture → RTL → verification**.
+Focused on synthesizable RTL, bus interfaces, verification, processor architecture, and hardware acceleration.
 
-**Areas**
-
-`Verilog`
-`SystemVerilog`
-`RTL Design`
-`Digital Logic`
-`Arbitration`
-`Processor Design`
-`Memory Interfaces`
-`Bus Protocols`
-`Hardware Verification`
-`Hardware Acceleration`
-
-**Current / Past Work**
-
-* **RISC-V SoC + Custom ML Accelerator**
-* **128-Point Fixed-Point FFT Hardware Accelerator**
-* **SystemVerilog APB RAM + Verification**
-* **AXI4-Lite Programmable PWM IP Core**
-* **8-bit UART Communication System**
-* **Weighted Round-Robin Arbiter**
-* **RISC-MIPS32 CPU**
-* **Electronic Voting Machine**
+**Selected Work**
+- **EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer** — Python-driven exploration of mixed-precision FFT architectures and accuracy-versus-hardware-cost trade-offs.
+- **4096-Point FFT/IFFT Accelerator** — Continuous-flow FFT architecture focused on architecture-level optimization and verification.
+- **Hessian-Guided BFP2 Quantization Accelerator** — Low-bit block floating-point quantization and hardware-oriented inference research.
+- **RISC-V SoC + Custom ML Accelerator** — RISC-V system integrating a fixed-point matrix-multiplication accelerator and peripheral interfaces.
+- **AXI4-Lite Programmable PWM IP Core** — Register-mapped RTL peripheral with configurable PWM and status handling.
+- **SystemVerilog APB RAM + Verification** — APB memory interface with structured verification components.
 
 🔗 [**Explore RTL & Digital Projects →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
 
 ---
 
-## 🔌 Embedded Systems & Control
+## 🧠 AI/ML for Hardware
 
-Interested in combining sensors, controllers, communication, and hardware to create practical systems.
+I’m especially interested in the intersection of machine learning, quantization, computer architecture, and efficient hardware implementation.
 
-**Areas**
+- **Hessian-Guided BFP2 Quantization Accelerator** — Low-bit weight representation and hardware-aware inference exploration.
+- **RISC-V SoC + Custom ML Accelerator** — Fixed-point matrix-multiplication acceleration integrated into a processor-based system.
+- **EvoFFT** — Mixed-precision optimization for signal-processing hardware.
 
-`Embedded Systems`
-`ESP32`
-`Arduino`
-`PWM`
-`Sensor Interfacing`
-`Motor Control`
-`Computer Vision + Embedded`
-`Hardware Control`
-
-**Current / Past Work**
-
-* **Gesture-Based Vehicle Control**
-* **Adaptive Temperature-Based DC Motor Control**
-* **EOG-Based Real-Time Eye Tracking**
-
-🔗 [**Explore Embedded Projects →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
+🔗 [**Explore AI/ML & Hardware Projects →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
 
 ---
 
-## 🧠 Computer Architecture
+## 📡 RF, Antennas & Electromagnetics
 
-Exploring how processors, datapaths, control units, interfaces, and hardware architectures are designed and implemented.
+- **10 GHz Reconfigurable Intelligent Surface (RIS)** — Unit-cell phase mapping and array-factor-based beam-steering exploration.
+- **10 GHz Vivaldi Antenna**
+- **SIW Slot Antenna**
 
-**Areas**
-
-`CPU Design`
-`RISC-V`
-`Pipelining`
-`Datapath & Control`
-`Instruction Processing`
-`Memory Interfaces`
-`RTL Architecture`
-`Hardware/Software Co-Design`
-
-**Current / Past Work**
-
-* **RISC-V SoC + Custom ML Accelerator**
-* **RISC-MIPS32 Five-Stage CPU**
-* **128-Point FFT Hardware Accelerator**
-* **AXI4-Lite Programmable PWM IP**
-
-🔗 [**Explore Architecture Projects →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
-
----
-
-## 🤖 AI / ML & Intelligent Systems
-
-I’m actively exploring **Artificial Intelligence and Machine Learning** and how intelligent algorithms can be integrated with engineering systems.
-
-**Areas**
-
-`Machine Learning`
-`Random Forest`
-`Computer Vision`
-`Object Tracking`
-`Signal Processing`
-`Data Analysis`
-`Intelligent Systems`
-
-**Current / Past Work**
-
-* **EOG-Based Real-Time Eye Tracking**
-* **EKF-Based Object Tracking**
-* **Gesture-Based Vehicle Control**
-* **RISC-V SoC + Custom ML Accelerator**
-
-🚀 **More AI/ML projects coming as I explore the field further.**
-
-🔗 [**Explore AI/ML Projects →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
+🔗 [**Explore RF & Antenna Work →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
 
 ---
 
 # 🚀 Selected Projects
 
-> A selection of my strongest work across **digital hardware, computer architecture, RF engineering, embedded systems, and AI/ML**.
+> A focused shortlist for **VLSI/RTL, digital hardware, computer architecture, and AI/ML hardware internships**. Check each repository for current implementation details, verification status, and reported results.
 
-### 🥇 RISC-V SoC + Custom ML Accelerator
+### ⚡ EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer
 
-**RISC-V • SystemVerilog • AXI4-Lite • APB • BRAM • Fixed-Point Hardware**
+**Python • FFT/DSP • Mixed Precision • NSGA-II • Vivado**
 
-Bare-metal RISC-V SoC integrating a PicoRV32 RV32IM processor, AXI4-Lite to APB interconnect, on-chip BRAM, a custom Q4.4 fixed-point matrix-multiplication accelerator, and APB UART.
+Explores stage-wise precision choices for FFT hardware and evaluates trade-offs between signal quality and hardware cost.
+
+🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/EvoFFT-StageWise-MixedPrecision-FFT-Optimizer)
+
+---
+
+### 🚀 4096-Point FFT/IFFT Accelerator
+
+**RTL • FFT/IFFT • Architecture Optimization • Verification**
+
+A continuous-flow 4096-point FFT/IFFT project focused on architecture-level optimization, verification, and implementation analysis.
+
+🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/Jointly-Optimized-Continuous-Flow-4096-Point-FFT-IFFT-Accelerator)
+
+---
+
+### 🧠 Hessian-Guided BFP2 Quantization Accelerator
+
+**SystemVerilog • PyTorch • Quantization • AI Hardware**
+
+Explores block floating-point 2-bit quantization and hardware-oriented inference acceleration. See the repository for its current implementation details and limitations.
+
+🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/Hessian-Guided-BFP2-Quantization-Accelerator)
+
+---
+
+### 🧩 RISC-V SoC + Custom ML Accelerator
+
+**RISC-V • SystemVerilog • AXI4-Lite • APB • Fixed-Point Arithmetic**
+
+A processor-based SoC integrating a custom fixed-point matrix-multiplication accelerator and peripheral interfaces.
 
 🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/RISC-V-SoC-Custom-ML-Accelerator)
 
 ---
 
-### 🥈 128-Point Fixed-Point FFT Hardware Accelerator
+### 🔌 AXI4-Lite Programmable PWM IP Core
 
-**Verilog • DSP • Fixed-Point Arithmetic • Hardware Acceleration**
+**Verilog • AXI4-Lite • RTL Design • Peripheral IP**
 
-A multi-stage 128-point FFT hardware implementation using butterfly units, complex multiplication, twiddle-factor ROMs, buffering, FIFOs, and error-detection/redundancy logic.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/128-Point-Fixed-Point-FFT-Hardware-Accelerator)
-
----
-
-### 🥉 SystemVerilog APB RAM + Verification
-
-**SystemVerilog • AMBA APB • RTL • Verification**
-
-APB-based RAM with a structured verification environment containing transaction, generator, driver, monitor, scoreboard, and testbench components.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/SV-APB-RAM-RTL-Design-Verification)
-
----
-
-### ⚡ AXI4-Lite Programmable PWM IP Core
-
-**Verilog • AXI4-Lite • RTL • IP Design • Verification**
-
-Synthesizable AXI4-Lite peripheral featuring programmable duty cycle, configurable period, breathing mode, status monitoring, interrupt generation, and simulation waveforms.
+A programmable PWM peripheral featuring register-based control, configurable timing, and status handling.
 
 🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/AXI4-Lite-Programmable-PWM-Peripheral-IP-Core)
 
 ---
 
-### 📡 10 GHz Vivaldi Antenna
+### 🧪 SystemVerilog APB RAM + Verification
 
-**ANSYS HFSS • RF & Microwave • Antenna Design • Optimization**
+**SystemVerilog • AMBA APB • RTL Verification**
 
-10 GHz Vivaldi antenna design with parametric optimization and electromagnetic analysis including S11, VSWR, radiation pattern, surface current, electric field, and magnetic field.
+An APB RAM design accompanied by a structured testbench and verification components.
 
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/10GHz-Vivaldi-Antenna-HFSS)
-
----
-
-### 🤖 EOG-Based Real-Time Eye Tracking
-
-**Python • Jupyter Notebook • Machine Learning • Random Forest • Signal Processing**
-
-Real-time EOG-based eye-tracking system using separate machine-learning classifiers for horizontal movement, vertical movement, and blink detection.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/EOG-Based-Real-Time-Eye-Tracking)
+🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/SV-APB-RAM-RTL-Design-Verification)
 
 ---
 
-### 📐 SIW Slot Antenna
+### 📡 10 GHz Reconfigurable Intelligent Surface
 
-**ANSYS HFSS • SIW • RF & Microwave • Electromagnetic Optimization**
+**FEKO • Electromagnetics • Array Factor • Beam Steering**
 
-SIW slot antenna designed around the 7.9 GHz region, with initial-versus-optimized analysis and improved impedance matching through feed-region geometry modification.
+A 10 GHz RIS exploration involving unit-cell phase mapping, quantized phase states, and analytical array-factor analysis.
 
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/hfss-substrate-integrated-waveguide-antenna)
+🔗 [**Explore Repositories →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
 
 ---
 
