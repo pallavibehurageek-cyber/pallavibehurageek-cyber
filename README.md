@@ -37,41 +37,82 @@ I’m most interested in building and evaluating hardware: from RTL and verifica
 
 # 🛠️ Tech Stack
 
-### 👩‍💻 Programming & HDL
+My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP accelerators, and AI/ML hardware**. RF and embedded tools are listed as supporting areas.
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge\&logo=python\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-%23B2B7F8.svg?style=for-the-badge\&logo=verilog\&logoColor=black)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23007ACC.svg?style=for-the-badge\&logoColor=white)
+### 💻 Programming Languages & Scripting
 
-### 📊 Scientific Computing & AI/ML
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![RISC-V Assembly](https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU_Octave-0790C0?style=for-the-badge)
+![Tcl](https://img.shields.io/badge/Tcl-1E4A72?style=for-the-badge)
+![Bash / Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge\&logo=scipy\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FF0100.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-%23009688.svg?style=for-the-badge\&logo=google\&logoColor=white)
+### 🔧 RTL, HDL & Hardware Design
 
-`Machine Learning` `Random Forest` `Computer Vision` `Object Tracking` `Signal Processing` `Data Analysis` `Intelligent Systems`
+![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logoColor=black)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge&logoColor=white)
+![AMBA AXI4--Lite](https://img.shields.io/badge/AMBA_AXI4--Lite-1B6AC9?style=for-the-badge)
+![AMBA APB](https://img.shields.io/badge/AMBA_APB-1B6AC9?style=for-the-badge)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
+![Fixed-Point Arithmetic](https://img.shields.io/badge/Fixed--Point_Arithmetic-6A5ACD?style=for-the-badge)
+![FFT / IFFT](https://img.shields.io/badge/FFT%2FIFFT-DSP-6A5ACD?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA_Design-006699?style=for-the-badge)
 
-### 📡 RF / Antennas / EDA
+**Design concepts:** RTL design, FSMs, memory-mapped registers, bus interfaces, processor/SoC integration, hardware/software co-design, fixed-point datapaths, mixed-precision arithmetic, quantization, FFT/IFFT, arbitration, and IP design.
 
-![HFSS](https://img.shields.io/badge/ANSYS_HFSS-%23FFB71B.svg?style=for-the-badge\&logo=ansys\&logoColor=black)
-![FEKO](https://img.shields.io/badge/Altair_FEKO-%23E41E25.svg?style=for-the-badge\&logo=altair\&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence_EDA-%23C01818.svg?style=for-the-badge\&logoColor=white)
+### 🧪 Simulation, Verification, Synthesis & PPA
 
-`Antenna Design` `RF & Microwave` `Electromagnetics` `Vivaldi` `SIW` `RIS` `Array Analysis` `Beam Steering` `Phase Quantization`
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF1010?style=for-the-badge&logo=amd&logoColor=white)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-333333?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-333333?style=for-the-badge)
+![Cadence Genus](https://img.shields.io/badge/Cadence_Genus-C01818?style=for-the-badge)
+![Yosys](https://img.shields.io/badge/Yosys-4B6F44?style=for-the-badge)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-385E9D?style=for-the-badge)
+![OpenRAM](https://img.shields.io/badge/OpenRAM-385E9D?style=for-the-badge)
+![Intel Quartus Prime](https://img.shields.io/badge/Intel_Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Aldec Riviera--PRO](https://img.shields.io/badge/Aldec_Riviera--PRO-00529B?style=for-the-badge)
 
-### 🔌 Embedded / Development
+**Workflows & methods:** self-checking testbenches, functional simulation, waveform debugging, reference-model comparison, SQNR analysis, synthesis, timing analysis, clock gating, power estimation using SAIF, and area/power/performance (PPA) evaluation.
 
-![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+**Technology/library context:** Zynq-7000 FPGA, Intel MAX 10 FPGA, 45 nm standard-cell flow, FreePDK45, and Nangate45, as documented in the relevant project repositories.
+
+### 🤖 AI/ML, Quantization & Scientific Python
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge)
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![tqdm](https://img.shields.io/badge/tqdm-FFC107?style=for-the-badge)
+![lm-evaluation-harness](https://img.shields.io/badge/lm--evaluation--harness-444444?style=for-the-badge)
+
+**AI/ML methods:** Random Forest classification, computer vision, EOG signal classification, object tracking, low-bit/block-floating-point quantization, Hessian-guided weight grouping, model evaluation, and hardware-aware optimization.
+
+### 🔌 Embedded Systems & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-FF0100?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=for-the-badge&logo=google&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 📡 RF / Antennas & Electromagnetics — Supporting Area
+
+![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![Altair FEKO](https://img.shields.io/badge/Altair_FEKO-E41E25?style=for-the-badge&logo=altair&logoColor=white)
+
+**Areas:** full-wave electromagnetic simulation, antenna design, S11/VSWR analysis, Vivaldi and SIW antennas, RIS phase mapping, and array-factor/beam-steering analysis.
+
+### 🧰 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
