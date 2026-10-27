@@ -1,4 +1,16 @@
-# 👋 Hi, I'm Pallavi Behura
+<div align="center">
+
+<img src="assets/electronics-banner.svg" alt="Pallavi Behura — Electronics and Hardware Engineering" width="100%" />
+
+<p>
+  <a href="https://github.com/pallavibehurageek-cyber"><img src="https://img.shields.io/badge/GitHub-pallavibehurageek--cyber-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/pallavi-behura-547329214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pallavibehurageek-cyber&style=for-the-badge&color=00BFA6&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=67F7FF&center=true&vCenter=true&width=720&lines=Designing+and+exploring+digital+hardware;VLSI+%7C+RTL+%7C+FPGA+%7C+Verification;AI%2FML+Hardware+%7C+DSP+Accelerators;Build+%E2%86%92+Simulate+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing animation" /></a>
+
+</div>
 
 ### 💻 Prefinal-Year B.Tech ECE | VLSI & RTL Design | AI/ML Hardware | Computer Architecture | DSP Accelerators
 
@@ -211,20 +223,32 @@ RF/antenna and embedded projects remain available, but are not the main focus of
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Analytics
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=pallavibehurageek-cyber&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&custom_title=Pallavi%27s%20GitHub%20Stats"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com/?user=pallavibehurageek-cyber&theme=tokyonight&hide_border=true&mode=daily"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+
+<a href="https://github.com/pallavibehurageek-cyber">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pallavibehurageek-cyber&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=67F7FF&text_color=9CB6C9&icon_color=00BFA6" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/pallavibehurageek-cyber">
+  <img height="180" src="https://streak-stats.demolab.com?user=pallavibehurageek-cyber&hide_border=true&background=0D1117&ring=67F7FF&fire=00BFA6&currStreakLabel=67F7FF&sideLabels=9CB6C9&dates=6B8798" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavibehurageek-cyber/pallavibehurageek-cyber/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavibehurageek-cyber/pallavibehurageek-cyber/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pallavibehurageek-cyber/pallavibehurageek-cyber/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<sub>The contribution animation is generated daily by a GitHub Actions workflow. It will appear after the workflow completes successfully for the first time.</sub>
 
 ---
 
@@ -232,7 +256,7 @@ RF/antenna and embedded projects remain available, but are not the main focus of
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibehurageek-cyber&layout=pie&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Languages%20I%27ve%20Used&exclude_repo=pallavibehurageek-cyber"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibehurageek-cyber&layout=pie&langs_count=10&theme=transparent&hide_border=true&title_color=67F7FF&text_color=9CB6C9&bg_color=0D1117&custom_title=Languages%20I%27ve%20Used&exclude_repo=pallavibehurageek-cyber"
     alt="Languages I've Used"
   />
 </p>
