@@ -12,7 +12,7 @@
 
 </div>
 
-### 💻 Prefinal-Year B.Tech ECE | VLSI & RTL Design | AI/ML Hardware | Computer Architecture | DSP Accelerators
+### 💻 Third-Year B.Tech ECE | Digital Design / RTL | Design Verification | AI/ML Hardware | DSP Accelerators
 
 I'm a **Prefinal-Year Electronics & Communication Engineering student** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
 
@@ -130,7 +130,7 @@ My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP
 
 # 🎯 Current Internship Focus
 
-I'm currently prioritizing **VLSI/RTL design, design verification, digital hardware, computer architecture, DSP accelerators, and AI/ML hardware**. The projects below are ordered by their relevance to those roles and the strength of the documented implementation and verification evidence.
+I'm currently targeting internships in **Digital Design / RTL and Design Verification**, while building toward **DFT engineering** roles. My strongest documented work is in RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis. DFT is a target track rather than a claim of prior scan/ATPG project experience. The projects below are ordered by relevance and the strength of the documented implementation and verification evidence.
 
 ---
 
