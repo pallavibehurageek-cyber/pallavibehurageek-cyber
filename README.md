@@ -5,6 +5,7 @@
 <p>
   <a href="https://github.com/pallavibehurageek-cyber"><img src="https://img.shields.io/badge/GitHub-pallavibehurageek--cyber-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/pallavi-behura-547329214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C6DFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=pallavibehurageek-cyber&style=for-the-badge&color=00BFA6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
