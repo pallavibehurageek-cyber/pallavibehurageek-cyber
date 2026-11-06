@@ -5,6 +5,7 @@
 <p>
   <a href="https://github.com/pallavibehurageek-cyber"><img src="https://img.shields.io/badge/GitHub-pallavibehurageek--cyber-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/pallavi-behura-547329214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pallavibehurageek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pallavi" /></a>
   <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C6DFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=pallavibehurageek-cyber&style=for-the-badge&color=00BFA6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -15,9 +16,21 @@
 
 ### 💻 Third-Year B.Tech ECE | Digital Design / RTL | Design Verification | AI/ML Hardware | DSP Accelerators
 
-I'm a **Prefinal-Year Electronics & Communication Engineering student** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
+I'm a **third-year B.Tech Electronics & Communication Engineering student (2024–2028)** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
 
 I’m most interested in building and evaluating hardware: from RTL and verification to processor-based SoCs, DSP accelerators, mixed-precision datapaths, and hardware/software co-design. **RF and antenna engineering remain secondary ECE interests** in my broader project portfolio.
+
+## 🎯 Recruiter Quick View
+
+| | |
+|---|---|
+| **Internship targets** | Digital Design / RTL · Design Verification · DFT (developing interest) |
+| **RTL evidence** | 4096-point FFT/IFFT accelerator · AXI4-Lite PWM IP · RISC-V SoC integration |
+| **Verification evidence** | SystemVerilog transaction-based APB test environment, including scoreboard and waveform debug |
+| **Industry exposure** | DRDL FPGA controller internship — VHDL, Xilinx Spartan-3AN, hardware/software interlocks and RS-232 |
+| **Fastest way to reach me** | [Email](mailto:pallavibehurageek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pallavi-behura-547329214/) · [Portfolio](https://pallavibehurageek-cyber.github.io/pallavi-portfolio/) |
+
+*DFT is a target direction; my strongest documented hands-on evidence is currently in RTL design, functional verification and digital hardware architecture.*
 
 ---
 
