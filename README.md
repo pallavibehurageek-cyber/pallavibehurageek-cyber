@@ -129,6 +129,21 @@ My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP
 
 ---
 
+## 🎓 Certifications & Technical Programmes
+
+- **NIELIT × SoCTeamup Semiconductors — Bootcamp: RTL, IP Integration and SoC Signoff**  
+  30-hour bootcamp | 29 July–3 August 2026 | Under a MeitY, Government of India-sponsored semiconductor EdTech initiative.
+- **8th Edition Indo-Dutch Cyber Security School (IDCSS 2025)**  
+  30 learning hours | 30 CPE credits | Certificate of participation.
+- **IETE Hyderabad Centre — Embedded IoT Application Development**  
+  One-month online professional development programme | 10 October–9 November 2025.
+
+## 🧪 Technical Poster Presentation
+
+- **45th National Symposium on Instrumentation (NSI-45)** — Presented the poster *“Graphene MEMS RF Switches for UAV Radar Beam Steering”* at the Department of Biomedical Engineering, UCE(A), Osmania University, 29–30 January 2026. Certificate of participation.
+
+---
+
 # 🎯 Current Internship Focus
 
 I'm currently targeting internships in **Digital Design / RTL and Design Verification**, while building toward **DFT engineering** roles. My strongest documented work is in RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis. DFT is a target track rather than a claim of prior scan/ATPG project experience. The projects below are ordered by relevance and the strength of the documented implementation and verification evidence.
