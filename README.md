@@ -20,10 +20,7 @@ I'm a **prefinal-year B.Tech Electronics & Communication Engineering student (20
 
 I’m most interested in building and evaluating hardware: from RTL and verification to processor-based SoCs, DSP accelerators, mixed-precision datapaths, and hardware/software co-design. **RF and antenna engineering remain secondary ECE interests** in my broader project portfolio.
 
-## 🎯 Recruiter Quick View
-
-| | |
-|---|---|
+---|
 | **Internship targets** | Digital Design / RTL · Design Verification · AI/ML Hardware · FPGA / Hardware Validation |
 | **RTL evidence** | 4096-point FFT/IFFT accelerator · AXI4-Lite PWM IP · RISC-V SoC integration |
 | **Verification evidence** | SystemVerilog transaction-based APB test environment, including scoreboard and waveform debug |
