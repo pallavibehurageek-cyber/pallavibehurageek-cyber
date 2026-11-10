@@ -14,9 +14,9 @@
 
 </div>
 
-### 💻 Third-Year B.Tech ECE | Digital Design / RTL | Design Verification | AI/ML Hardware | DSP Accelerators
+### 💻 Prefinal-Year B.Tech ECE | Digital Design / RTL | Design Verification | AI/ML Hardware | DSP Accelerators
 
-I'm a **third-year B.Tech Electronics & Communication Engineering student (2024–2028)** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
+I'm a **prefinal-year B.Tech Electronics & Communication Engineering student (2024–2028)** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
 
 I’m most interested in building and evaluating hardware: from RTL and verification to processor-based SoCs, DSP accelerators, mixed-precision datapaths, and hardware/software co-design. **RF and antenna engineering remain secondary ECE interests** in my broader project portfolio.
 
@@ -24,13 +24,13 @@ I’m most interested in building and evaluating hardware: from RTL and verifica
 
 | | |
 |---|---|
-| **Internship targets** | Digital Design / RTL · Design Verification · DFT (developing interest) |
+| **Internship targets** | Digital Design / RTL · Design Verification · AI/ML Hardware · FPGA / Hardware Validation |
 | **RTL evidence** | 4096-point FFT/IFFT accelerator · AXI4-Lite PWM IP · RISC-V SoC integration |
 | **Verification evidence** | SystemVerilog transaction-based APB test environment, including scoreboard and waveform debug |
 | **Industry exposure** | DRDL FPGA controller internship — VHDL, Xilinx Spartan-3AN, hardware/software interlocks and RS-232 |
 | **Fastest way to reach me** | [Email](mailto:pallavibehurageek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pallavi-behura-547329214/) · [Portfolio](https://pallavibehurageek-cyber.github.io/pallavi-portfolio/) |
 
-*DFT is a target direction; my strongest documented hands-on evidence is currently in RTL design, functional verification and digital hardware architecture.*
+*My strongest documented hands-on evidence is in RTL design, functional verification, processor/SoC integration, DSP accelerators and AI/ML hardware experiments.*
 
 ---
 
@@ -118,7 +118,7 @@ My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP
 ![tqdm](https://img.shields.io/badge/tqdm-FFC107?style=for-the-badge)
 ![lm-evaluation-harness](https://img.shields.io/badge/lm--evaluation--harness-444444?style=for-the-badge)
 
-**AI/ML methods:** Random Forest classification, computer vision, EOG signal classification, object tracking, low-bit/block-floating-point quantization, Hessian-guided weight grouping, model evaluation, and hardware-aware optimization.
+**AI/ML methods:** Random Forest classification, computer vision, EOG signal classification, object tracking, low-bit/block-floating-point quantization, Hessian-guided weight grouping, model evaluation, and hardware-aware optimization. Exploring arithmetic masking and side-channel-aware CNN datapaths as an active hardware project.
 
 ### 🔌 Embedded Systems & Computer Vision
 
@@ -159,7 +159,7 @@ My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP
 
 # 🎯 Current Internship Focus
 
-I'm currently targeting internships in **Digital Design / RTL and Design Verification**, while building toward **DFT engineering** roles. My strongest documented work is in RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis. DFT is a target track rather than a claim of prior scan/ATPG project experience. The projects below are ordered by relevance and the strength of the documented implementation and verification evidence.
+I'm currently targeting internships in **Digital Design / RTL, Design Verification, AI/ML Hardware, and FPGA / Hardware Validation**. My strongest documented work is in RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis. The projects below are ordered by relevance and the strength of the documented implementation and verification evidence.
 
 ---
 
@@ -224,6 +224,14 @@ An APB-based RAM peripheral with a structured verification environment using tra
 An exploration of low-bit neural-network weight grouping and a channel-scatter hardware datapath. The repository documents ongoing verification and important numerical limitations in the default pair-level routing configuration; software-model accuracy figures should **not** be presented as hardware-verified end-to-end accuracy.
 
 🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/Hessian-Guided-BFP2-Quantization-Accelerator)
+
+### MaskCore — Side-Channel-Aware CNN Accelerator (In Progress)
+
+**SystemVerilog • CNN Datapath • Arithmetic Masking • RTL Simulation • Yosys / OpenROAD**
+
+An active study and implementation project exploring arithmetic masking of weights, activations and partial sums in a CNN accelerator. Current work is focused on understanding the protected datapath, reproducing functional checks, and evaluating implementation overhead. This is work in progress; no physical side-channel resistance or tapeout result is claimed.
+
+🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/MaskCore-CNN-Accelerator)
 
 ---
 
