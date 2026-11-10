@@ -14,18 +14,18 @@
 
 </div>
 
-### 💻 Prefinal-Year B.Tech ECE | Digital Design / RTL | Design Verification | AI/ML Hardware | DSP Accelerators
+### 💻 Prefinal-Year B.Tech ECE | VLSI / RTL | Computer Architecture | AI/ML Hardware | DSP Accelerators
 
 I'm a **prefinal-year B.Tech Electronics & Communication Engineering student (2024–2028)** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
 
 I’m most interested in building and evaluating hardware: from RTL and verification to processor-based SoCs, DSP accelerators, mixed-precision datapaths, and hardware/software co-design. **RF and antenna engineering remain secondary ECE interests** in my broader project portfolio.
 
 ---|
-| **Internship targets** | Digital Design / RTL · Design Verification · AI/ML Hardware · FPGA / Hardware Validation |
+| **Core interests** | Digital Design / RTL · Computer Architecture · AI/ML Hardware · DSP Accelerators |
 | **RTL evidence** | 4096-point FFT/IFFT accelerator · AXI4-Lite PWM IP · RISC-V SoC integration |
 | **Verification evidence** | SystemVerilog transaction-based APB test environment, including scoreboard and waveform debug |
 | **Industry exposure** | DRDL FPGA controller internship — VHDL, Xilinx Spartan-3AN, hardware/software interlocks and RS-232 |
-| **Fastest way to reach me** | [Email](mailto:pallavibehurageek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pallavi-behura-547329214/) · [Portfolio](https://pallavibehurageek-cyber.github.io/pallavi-portfolio/) |
+| **Links** | [Email](mailto:pallavibehurageek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pallavi-behura-547329214/) · [Portfolio](https://pallavibehurageek-cyber.github.io/pallavi-portfolio/) |
 
 *My strongest documented hands-on evidence is in RTL design, functional verification, processor/SoC integration, DSP accelerators and AI/ML hardware experiments.*
 
@@ -154,9 +154,9 @@ My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP
 
 ---
 
-# 🎯 Current Internship Focus
+# 🧭 Current Technical Focus
 
-I'm currently targeting internships in **Digital Design / RTL, Design Verification, AI/ML Hardware, and FPGA / Hardware Validation**. My strongest documented work is in RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis. The projects below are ordered by relevance and the strength of the documented implementation and verification evidence.
+My current technical interests centre on **Digital Design / RTL, Design Verification, computer architecture, AI/ML hardware, and FPGA implementation**. My project work explores RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis.
 
 ---
 
@@ -245,7 +245,7 @@ These projects provide supporting examples of digital design, interface logic, a
 
 ## Other ECE Work
 
-RF/antenna and embedded projects remain available, but are not the main focus of this internship-oriented shortlist:
+RF/antenna and embedded projects are included as supporting areas alongside my current digital hardware work:
 
 - [10 GHz Vivaldi Antenna](https://github.com/pallavibehurageek-cyber/10GHz-Vivaldi-Antenna-HFSS)
 - [SIW Slot Antenna](https://github.com/pallavibehurageek-cyber/hfss-substrate-integrated-waveguide-antenna)
