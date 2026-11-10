@@ -1,447 +1,91 @@
 <div align="center">
 
-<img src="assets/electronics-banner.svg" alt="Pallavi Behura — Electronics and Hardware Engineering" width="100%" />
+<img src="assets/electronics-banner.svg" alt="Pallavi Behura — digital hardware and electronics" width="100%" />
 
 <p>
-  <a href="https://github.com/pallavibehurageek-cyber"><img src="https://img.shields.io/badge/GitHub-pallavibehurageek--cyber-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/pallavi-behura-547329214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pallavibehurageek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pallavi" /></a>
-  <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C6DFA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pallavibehurageek-cyber&style=for-the-badge&color=00BFA6&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/pallavibehurageek-cyber">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/pallavi-behura-547329214/">LinkedIn</a> ·
+  <a href="mailto:pallavibehurageek@gmail.com">Email</a> ·
+  <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/">Portfolio</a>
 </p>
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=67F7FF&center=true&vCenter=true&width=720&lines=Designing+and+exploring+digital+hardware;VLSI+%7C+RTL+%7C+FPGA+%7C+Verification;AI%2FML+Hardware+%7C+DSP+Accelerators;Build+%E2%86%92+Simulate+%E2%86%92+Analyze+%E2%86%92+Improve" alt="Typing animation" /></a>
 
 </div>
 
-### 💻 Prefinal-Year B.Tech ECE | VLSI / RTL | Computer Architecture | AI/ML Hardware | DSP Accelerators
+# Pallavi Behura
 
-I'm a **prefinal-year B.Tech Electronics & Communication Engineering student (2024–2028)** focused on **VLSI/RTL design, digital hardware, computer architecture, and AI/ML hardware acceleration**.
+**Prefinal-Year B.Tech ECE · VLSI / RTL · Computer Architecture · AI/ML Hardware**
 
-I’m most interested in building and evaluating hardware: from RTL and verification to processor-based SoCs, DSP accelerators, mixed-precision datapaths, and hardware/software co-design. **RF and antenna engineering remain secondary ECE interests** in my broader project portfolio.
+I work on digital hardware projects across RTL design, functional verification, processor/SoC integration, DSP accelerators and AI/ML hardware. I enjoy taking an architecture from an idea to RTL, simulation, debugging and implementation analysis.
 
----|
-| **Core interests** | Digital Design / RTL · Computer Architecture · AI/ML Hardware · DSP Accelerators |
-| **RTL evidence** | 4096-point FFT/IFFT accelerator · AXI4-Lite PWM IP · RISC-V SoC integration |
-| **Verification evidence** | SystemVerilog transaction-based APB test environment, including scoreboard and waveform debug |
-| **Industry exposure** | DRDL FPGA controller internship — VHDL, Xilinx Spartan-3AN, hardware/software interlocks and RS-232 |
-| **Links** | [Email](mailto:pallavibehurageek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pallavi-behura-547329214/) · [Portfolio](https://pallavibehurageek-cyber.github.io/pallavi-portfolio/) |
-
-*My strongest documented hands-on evidence is in RTL design, functional verification, processor/SoC integration, DSP accelerators and AI/ML hardware experiments.*
+My main tools and languages include **Verilog, SystemVerilog, Python, Vivado, Icarus Verilog, GTKWave, Yosys and Cadence Genus**.
 
 ---
 
-## 💫 About Me
+## Technical focus
 
-🔹 Primary focus: **VLSI, RTL design, digital hardware, and verification**
+| Area | Current interests |
+|---|---|
+| Digital design | RTL, FSMs, datapaths, memory-mapped peripherals and IP integration |
+| Verification | SystemVerilog testbenches, scoreboards, assertions and waveform debugging |
+| Computer architecture | RISC-V, processor/SoC integration, AXI4-Lite and APB |
+| Hardware acceleration | FFT/IFFT, fixed-point arithmetic, mixed precision and quantization |
+| Implementation | FPGA synthesis, timing, area and power analysis |
 
-🔹 Exploring **AI/ML hardware, quantization, fixed-point arithmetic, and accelerator architecture**
+## Selected projects
 
-🔹 Interested in **RISC-V, computer architecture, AMBA bus protocols, and hardware/software co-design**
+| Project | What it explores |
+|---|---|
+| [4096-Point FFT/IFFT Accelerator](https://github.com/pallavibehurageek-cyber/Jointly-Optimized-Continuous-Flow-4096-Point-FFT-IFFT-Accelerator) | Continuous-flow radix-16³ architecture, CORDIC optimisation, clock gating, functional checks and 45 nm synthesis analysis |
+| [RISC-V SoC with Custom ML Accelerator](https://github.com/pallavibehurageek-cyber/RISC-V-SoC-Custom-ML-Accelerator) | PicoRV32, AXI4-Lite-to-APB interconnect, memory-mapped peripherals, fixed-point matrix accelerator and bare-metal firmware |
+| [AXI4-Lite Programmable PWM IP](https://github.com/pallavibehurageek-cyber/AXI4-Lite-Programmable-PWM-Peripheral-IP-Core) | Synthesizable peripheral RTL, independent bus FSMs, register strobes and self-checking simulation |
+| [APB RAM — SystemVerilog Design & Verification](https://github.com/pallavibehurageek-cyber/SV-APB-RAM-RTL-Design-Verification) | APB peripheral, modular testbench, transaction flow, scoreboard and waveform debugging |
+| [EvoFFT — Mixed-Precision FFT Optimizer](https://github.com/pallavibehurageek-cyber/EvoFFT-StageWise-MixedPrecision-FFT-Optimizer) | Python-based design-space exploration for stage-wise FP4/FP8 FFT architectures |
 
-🔹 Building with **Verilog, SystemVerilog, Python, and FPGA/EDA workflows**
+### Work in progress
 
-🔹 RF, antennas, and embedded systems remain supporting interests
+| Project | Current scope |
+|---|---|
+| [MaskCore — CNN Accelerator](https://github.com/pallavibehurageek-cyber/MaskCore-CNN-Accelerator) | Exploring arithmetic masking in a CNN datapath and evaluating implementation overhead. Functional and security claims remain limited to the work documented in the repository. |
+| [Hessian-Guided BFP2 Accelerator](https://github.com/pallavibehurageek-cyber/Hessian-Guided-BFP2-Quantization-Accelerator) | Studying 2-bit block-floating-point quantization and channel-scatter hardware/software co-design. Full reference equivalence and hardware validation remain in progress. |
 
-🔹 I learn by **building → simulating → debugging → analyzing → improving**
+### Additional digital design
 
-### 🚀 Currently Exploring
+[Weighted Round-Robin Arbiter](https://github.com/pallavibehurageek-cyber/Weighted-Round-Robin-Arbiter-Verilog) ·
+[5-stage MIPS32 CPU](https://github.com/pallavibehurageek-cyber/RISC-MIPS32-CPU-Verilog) ·
+[8-bit UART](https://github.com/pallavibehurageek-cyber/8-bit-RTL-UART-Communication-System) ·
+[128-point FFT RTL](https://github.com/pallavibehurageek-cyber/128-Point-Fixed-Point-FFT-Hardware-Accelerator)
 
-💻 VLSI / RTL Design & Verification
-🧠 Computer Architecture & RISC-V SoCs
-⚡ DSP and Hardware Accelerators
-🤖 AI/ML Hardware & Quantization
-🔗 Hardware/Software Co-Design
-🧪 FPGA Synthesis, Timing & PPA Analysis
-🔌 Embedded Systems
-📡 RF & Antenna Engineering (secondary)
+## Technical toolkit
 
----
+| Category | Tools and concepts |
+|---|---|
+| HDL and design | Verilog, SystemVerilog, VHDL, FSMs, datapaths, fixed-point arithmetic, AXI4-Lite, APB, RISC-V and MIPS32 |
+| Verification | SystemVerilog testbenches, transaction generation, drivers, monitors, scoreboards, assertions, self-checking tests and waveform debug |
+| Simulation and implementation | Vivado, Icarus Verilog, GTKWave, Riviera-PRO, Quartus Prime, Cadence Genus, Yosys, OpenROAD, OpenSTA and OpenRAM |
+| Programming | Python, C, C++, RISC-V Assembly, MATLAB, GNU Octave, Tcl and Bash |
+| AI/ML and scientific computing | PyTorch, NumPy, pandas, SciPy, Matplotlib and Jupyter; quantization and model-evaluation workflows |
+| Other ECE tools | ANSYS HFSS, Altair FEKO, OpenCV and MediaPipe |
 
-# 🛠️ Tech Stack
+## Experience and technical programmes
 
-My stack is organized around my current focus: **VLSI/RTL, digital hardware, DSP accelerators, and AI/ML hardware**. RF and embedded tools are listed as supporting areas.
+- **DRDL — Design of Controller for Embedded System:** FPGA/VHDL controller work using Xilinx Spartan-3AN, hardware/software interlocks and RS-232.
+- **NIELIT × SoCTeamup Semiconductors:** 30-hour bootcamp covering RTL, IP integration and SoC signoff.
+- **IETE Hyderabad Centre:** Embedded IoT Application Development programme.
+- **NSI-45:** Technical poster presentation on graphene MEMS RF switches for UAV radar beam steering.
+- **Indo-Dutch Cyber Security School 2025:** 30 learning hours and 30 CPE credits.
 
-### 💻 Programming Languages & Scripting
+## Other ECE work
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![RISC-V Assembly](https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![GNU Octave](https://img.shields.io/badge/GNU_Octave-0790C0?style=for-the-badge)
-![Tcl](https://img.shields.io/badge/Tcl-1E4A72?style=for-the-badge)
-![Bash / Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🔧 RTL, HDL & Hardware Design
-
-![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logoColor=black)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge&logoColor=white)
-![AMBA AXI4--Lite](https://img.shields.io/badge/AMBA_AXI4--Lite-1B6AC9?style=for-the-badge)
-![AMBA APB](https://img.shields.io/badge/AMBA_APB-1B6AC9?style=for-the-badge)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
-![Fixed-Point Arithmetic](https://img.shields.io/badge/Fixed--Point_Arithmetic-6A5ACD?style=for-the-badge)
-![FFT / IFFT](https://img.shields.io/badge/FFT%2FIFFT-DSP-6A5ACD?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA_Design-006699?style=for-the-badge)
-
-**Design concepts:** RTL design, FSMs, memory-mapped registers, bus interfaces, processor/SoC integration, hardware/software co-design, fixed-point datapaths, mixed-precision arithmetic, quantization, FFT/IFFT, arbitration, and IP design.
-
-### 🧪 Simulation, Verification, Synthesis & PPA
-
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-FF1010?style=for-the-badge&logo=amd&logoColor=white)
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-333333?style=for-the-badge)
-![GTKWave](https://img.shields.io/badge/GTKWave-333333?style=for-the-badge)
-![Cadence Genus](https://img.shields.io/badge/Cadence_Genus-C01818?style=for-the-badge)
-![Yosys](https://img.shields.io/badge/Yosys-4B6F44?style=for-the-badge)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-385E9D?style=for-the-badge)
-![OpenRAM](https://img.shields.io/badge/OpenRAM-385E9D?style=for-the-badge)
-![Intel Quartus Prime](https://img.shields.io/badge/Intel_Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Aldec Riviera--PRO](https://img.shields.io/badge/Aldec_Riviera--PRO-00529B?style=for-the-badge)
-
-**Workflows & methods:** self-checking testbenches, functional simulation, waveform debugging, reference-model comparison, SQNR analysis, synthesis, timing analysis, clock gating, power estimation using SAIF, and area/power/performance (PPA) evaluation.
-
-**Technology/library context:** Zynq-7000 FPGA, Intel MAX 10 FPGA, 45 nm standard-cell flow, FreePDK45, and Nangate45, as documented in the relevant project repositories.
-
-### 🤖 AI/ML, Quantization & Scientific Python
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge)
-![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![tqdm](https://img.shields.io/badge/tqdm-FFC107?style=for-the-badge)
-![lm-evaluation-harness](https://img.shields.io/badge/lm--evaluation--harness-444444?style=for-the-badge)
-
-**AI/ML methods:** Random Forest classification, computer vision, EOG signal classification, object tracking, low-bit/block-floating-point quantization, Hessian-guided weight grouping, model evaluation, and hardware-aware optimization. Exploring arithmetic masking and side-channel-aware CNN datapaths as an active hardware project.
-
-### 🔌 Embedded Systems & Computer Vision
-
-![OpenCV](https://img.shields.io/badge/OpenCV-FF0100?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=for-the-badge&logo=google&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 📡 RF / Antennas & Electromagnetics — Supporting Area
-
-![ANSYS HFSS](https://img.shields.io/badge/ANSYS_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-![Altair FEKO](https://img.shields.io/badge/Altair_FEKO-E41E25?style=for-the-badge&logo=altair&logoColor=white)
-
-**Areas:** full-wave electromagnetic simulation, antenna design, S11/VSWR analysis, Vivaldi and SIW antennas, RIS phase mapping, and array-factor/beam-steering analysis.
-
-### 🧰 Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[10 GHz Vivaldi Antenna](https://github.com/pallavibehurageek-cyber/10GHz-Vivaldi-Antenna-HFSS) ·
+[SIW Slot Antenna](https://github.com/pallavibehurageek-cyber/hfss-substrate-integrated-waveguide-antenna) ·
+[Gesture-Based Vehicle Control](https://github.com/pallavibehurageek-cyber/Gesture-Based-Vehicle-Control) ·
+[EOG-Based Real-Time Eye Tracking](https://github.com/pallavibehurageek-cyber/EOG-Based-Real-Time-Eye-Tracking) ·
+[Extended Kalman Object Tracking](https://github.com/pallavibehurageek-cyber/extended-kalman-object-tracking)
 
 ---
-
-## 🎓 Certifications & Technical Programmes
-
-- **NIELIT × SoCTeamup Semiconductors — Bootcamp: RTL, IP Integration and SoC Signoff**  
-  30-hour bootcamp | 29 July–3 August 2026 | Under a MeitY, Government of India-sponsored semiconductor EdTech initiative.
-- **8th Edition Indo-Dutch Cyber Security School (IDCSS 2025)**  
-  30 learning hours | 30 CPE credits | Certificate of participation.
-- **IETE Hyderabad Centre — Embedded IoT Application Development**  
-  One-month online professional development programme | 10 October–9 November 2025.
-
-## 🧪 Technical Poster Presentation
-
-- **45th National Symposium on Instrumentation (NSI-45)** — Presented the poster *“Graphene MEMS RF Switches for UAV Radar Beam Steering”* at the Department of Biomedical Engineering, UCE(A), Osmania University, 29–30 January 2026. Certificate of participation.
-
----
-
-# 🧭 Current Technical Focus
-
-My current technical interests centre on **Digital Design / RTL, Design Verification, computer architecture, AI/ML hardware, and FPGA implementation**. My project work explores RTL implementation, SystemVerilog test environments, SoC and bus-interface design, DSP/AI accelerators, and synthesis/PPA analysis.
-
----
-
-# 🚀 Selected Projects
-
-## 1. 4096-Point FFT/IFFT Accelerator
-
-**RTL • DSP Architecture • Clock Gating • CORDIC • PPA Optimization**
-
-A continuous-flow 4096-point FFT/IFFT design with RTL variants, a reference model, verification infrastructure, synthesis scripts, and reports. The repository reports **15/15 functional tests**, alongside baseline comparisons for latency, area, SQNR, and power under a documented 45 nm synthesis flow.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/Jointly-Optimized-Continuous-Flow-4096-Point-FFT-IFFT-Accelerator)
-
----
-
-## 2. RISC-V SoC + Custom ML Accelerator
-
-**RISC-V • Verilog • AXI4-Lite • APB • Q4.4 Fixed-Point • Bare-Metal Firmware**
-
-A processor-based SoC integrating a PicoRV32 RV32IM core, AXI4-Lite-to-APB interconnect, BRAM, a fixed-point matrix-multiplication accelerator, APB UART, and bare-metal firmware. The repository documents FPGA timing results, including a reported 158 MHz maximum frequency and positive timing slack.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/RISC-V-SoC-Custom-ML-Accelerator)
-
----
-
-## 3. EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer
-
-**Verilog • Python • NSGA-II • Mixed Precision • FPGA-Oriented Optimization**
-
-Explores stage-wise FP4/FP8 arithmetic choices and multi-objective design-space exploration for FFT architectures, balancing signal quality against hardware costs such as area, power, and latency.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/EvoFFT-StageWise-MixedPrecision-FFT-Optimizer)
-
----
-
-## 4. AXI4-Lite Programmable PWM IP Core
-
-**Verilog • AXI4-Lite • FSMs • Memory-Mapped Registers • Self-Checking Testbench**
-
-A synthesizable memory-mapped peripheral with configurable PWM timing, breathing mode, status handling, interrupt generation, byte-strobe support, and simulation waveform captures.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/AXI4-Lite-Programmable-PWM-Peripheral-IP-Core)
-
----
-
-## 5. SystemVerilog APB RAM + Verification
-
-**SystemVerilog • AMBA APB • Testbench Architecture • Functional Verification**
-
-An APB-based RAM peripheral with a structured verification environment using transaction generation, driving, monitoring, and expected-versus-observed checks, plus an FPGA-oriented synthesis flow.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/SV-APB-RAM-RTL-Design-Verification)
-
----
-
-## AI/ML Hardware Research — Work in Progress
-
-### Hessian-Guided BFP2 Quantization & Channel-Scatter Accelerator
-
-**SystemVerilog • PyTorch • 2-Bit Block Floating Point • Quantization-Aware Evaluation**
-
-An exploration of low-bit neural-network weight grouping and a channel-scatter hardware datapath. The repository documents ongoing verification and important numerical limitations in the default pair-level routing configuration; software-model accuracy figures should **not** be presented as hardware-verified end-to-end accuracy.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/Hessian-Guided-BFP2-Quantization-Accelerator)
-
-### MaskCore — Side-Channel-Aware CNN Accelerator (In Progress)
-
-**SystemVerilog • CNN Datapath • Arithmetic Masking • RTL Simulation • Yosys / OpenROAD**
-
-An active study and implementation project exploring arithmetic masking of weights, activations and partial sums in a CNN accelerator. Current work is focused on understanding the protected datapath, reproducing functional checks, and evaluating implementation overhead. This is work in progress; no physical side-channel resistance or tapeout result is claimed.
-
-🔗 [**View Repository →**](https://github.com/pallavibehurageek-cyber/MaskCore-CNN-Accelerator)
-
----
-
-## Additional RTL Projects
-
-These projects provide supporting examples of digital design, interface logic, and verification:
-
-- [**Weighted Round-Robin Arbiter**](https://github.com/pallavibehurageek-cyber/Weighted-Round-Robin-Arbiter-Verilog) — credit-based arbitration and grant logic.
-- [**8-bit UART Communication System**](https://github.com/pallavibehurageek-cyber/8-bit-RTL-UART-Communication-System) — transmitter/receiver RTL with loopback testbench.
-- [**RISC-MIPS32 CPU**](https://github.com/pallavibehurageek-cyber/RISC-MIPS32-CPU-Verilog) — five-stage pipelined processor design.
-- [**128-Point Fixed-Point FFT Accelerator**](https://github.com/pallavibehurageek-cyber/128-Point-Fixed-Point-FFT-Hardware-Accelerator) — RTL and testbench are present; simulation and numerical verification are still pending in its README.
-
----
-
-## Other ECE Work
-
-RF/antenna and embedded projects are included as supporting areas alongside my current digital hardware work:
-
-- [10 GHz Vivaldi Antenna](https://github.com/pallavibehurageek-cyber/10GHz-Vivaldi-Antenna-HFSS)
-- [SIW Slot Antenna](https://github.com/pallavibehurageek-cyber/hfss-substrate-integrated-waveguide-antenna)
-- [Gesture-Based Vehicle Control](https://github.com/pallavibehurageek-cyber/Gesture-Based-Vehicle-Control)
-- [EOG-Based Real-Time Eye Tracking](https://github.com/pallavibehurageek-cyber/EOG-Based-Real-Time-Eye-Tracking)
-- [Extended Kalman Object Tracking](https://github.com/pallavibehurageek-cyber/extended-kalman-object-tracking)
-
-[**Explore All My Repositories →**](https://github.com/pallavibehurageek-cyber?tab=repositories)
-
----
-
-# 📊 GitHub Stats & Analytics
-
-<div align="center">
-
-<a href="https://github.com/pallavibehurageek-cyber">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pallavibehurageek-cyber&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=67F7FF&text_color=9CB6C9&icon_color=00BFA6" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/pallavibehurageek-cyber">
-  <img height="180" src="https://streak-stats.demolab.com?user=pallavibehurageek-cyber&hide_border=true&background=0D1117&ring=67F7FF&fire=00BFA6&currStreakLabel=67F7FF&sideLabels=9CB6C9&dates=6B8798" alt="GitHub contribution streak" />
-</a>
-
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallavibehurageek-cyber/pallavibehurageek-cyber/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallavibehurageek-cyber/pallavibehurageek-cyber/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pallavibehurageek-cyber/pallavibehurageek-cyber/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<sub>The contribution animation is generated daily by a GitHub Actions workflow. It will appear after the workflow completes successfully for the first time.</sub>
-
----
-
-# 🥧 Languages I've Used
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibehurageek-cyber&layout=pie&langs_count=10&theme=transparent&hide_border=true&title_color=67F7FF&text_color=9CB6C9&bg_color=0D1117&custom_title=Languages%20I%27ve%20Used&exclude_repo=pallavibehurageek-cyber"
-    alt="Languages I've Used"
-  />
+  <a href="https://github.com/pallavibehurageek-cyber">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/pallavi-behura-547329214/">LinkedIn</a> ·
+  <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/">Portfolio</a>
 </p>
-
-<p align="center">
-  <i>Automatically generated from code in my public GitHub repositories.</i>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/pallavibehurageek-cyber">
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/pallavi-behura-547329214">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ✍️ Engineering Quote
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Engineering Quote"
-  />
-</p>
-
----
-
-# ⚡ My Engineering Philosophy
-
-<p align="center">
-
-### BUILD → SIMULATE → ANALYZE → LEARN → IMPROVE
-
-</p>
-
-<p align="center">
-
-### 🚀 Exploring. Building. Learning. Innovating.
-
-</p>
-
----
-
-<!--
-=========================================================
-                     CONFIGURATION
-=========================================================
-
-GITHUB USERNAME
----------------------------------------------------------
-pallavibehurageek-cyber
-
-
-VISUAL THEME
----------------------------------------------------------
-Primary analytics theme:
-tokyonight
-
-Used for:
-- GitHub Stats
-- GitHub Streak
-- Language Pie
-- Engineering Quote
-
-
-GITHUB STATS
----------------------------------------------------------
-Service:
-https://github-readme-stats.vercel.app/
-
-Current:
-show_icons=true
-include_all_commits=true
-count_private=false
-rank_icon=github
-theme=tokyonight
-hide_border=true
-
-Optional:
-hide=issues,prs
-
-
-LANGUAGE PIE
----------------------------------------------------------
-Service:
-https://github-readme-stats.vercel.app/
-
-Current:
-layout=pie
-langs_count=10
-theme=tokyonight
-hide_border=true
-
-The profile README repository is excluded:
-exclude_repo=pallavibehurageek-cyber
-
-Add more repositories to exclude with:
-exclude_repo=repo1,repo2
-
-
-GITHUB STREAK
----------------------------------------------------------
-Service:
-https://streak-stats.demolab.com/
-
-Current:
-theme=tokyonight
-hide_border=true
-mode=daily
-
-
-WHY THERE IS NO TROPHY WIDGET
----------------------------------------------------------
-The public GitHub Profile Trophy deployment has had
-403/503/deployment-paused problems, so it has intentionally
-been removed rather than using an unstable third-party mirror.
-
-
-WHY THERE IS NO ACTIVITY GRAPH
----------------------------------------------------------
-The public github-readme-activity-graph Vercel deployment
-is currently returning HTTP 402 because the upstream
-deployment is billing-locked/paused.
-
-It has intentionally been removed.
-
-
-PROJECT MAINTENANCE
----------------------------------------------------------
-When a stronger project is completed:
-
-1. Add it to the correct domain.
-2. Add it to "More Projects".
-3. Promote it to "Selected Projects" if it becomes
-   one of your strongest repositories.
-4. Replace the weakest featured project.
-
-Keep:
-"Explore All My Projects"
-
-permanently.
-
-=========================================================
--->
