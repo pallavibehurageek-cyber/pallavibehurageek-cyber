@@ -3,9 +3,15 @@
 <img src="assets/electronics-banner.svg" alt="Pallavi Behura — digital hardware and electronics" width="100%" />
 
 <p>
+  <img src="https://img.shields.io/badge/VLSI-RTL%20Design-2563EB?style=for-the-badge&logo=verilog&logoColor=white" alt="VLSI RTL" />
+  <img src="https://img.shields.io/badge/Design-Verification-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Design Verification" />
+  <img src="https://img.shields.io/badge/AI%2FML-Hardware-DB2777?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI ML Hardware" />
+  <img src="https://img.shields.io/badge/Computer-Architecture-0891B2?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Computer Architecture" />
+</p>
+<p>
   <a href="https://www.linkedin.com/in/pallavi-behura-547329214/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pallavibehurageek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-156B68?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:pallavibehurageek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://pallavibehurageek-cyber.github.io/pallavi-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -20,7 +26,7 @@ My strongest current interests are **RTL design, SystemVerilog-based verificatio
 
 ---
 
-## Engineering focus
+## 🧭 Engineering focus
 
 <table>
   <tr>
@@ -55,11 +61,11 @@ My strongest current interests are **RTL design, SystemVerilog-based verificatio
   </tr>
 </table>
 
-## Selected engineering projects
+## 🚀 Selected engineering projects
 
-### 01 · Continuous-Flow 4096-Point FFT / IFFT Accelerator
+### 🟦 01 · Continuous-Flow 4096-Point FFT / IFFT Accelerator
 
-**Verilog · DSP architecture · Clock gating · CORDIC · 45 nm synthesis analysis**
+<img src="https://img.shields.io/badge/RTL-VERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/DOMAIN-DSP-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/FOCUS-PPA-7C3AED?style=flat-square" />
 
 A continuous-flow, ROM-free FFT/IFFT architecture based on a conflict-free radix-16³ structure. The project explores occupancy-driven clock gating, reduced-cycle CORDIC computation and memory word-length optimization.
 
@@ -73,9 +79,9 @@ A continuous-flow, ROM-free FFT/IFFT architecture based on a conflict-free radix
 
 [**Explore the FFT/IFFT repository →**](https://github.com/pallavibehurageek-cyber/Jointly-Optimized-Continuous-Flow-4096-Point-FFT-IFFT-Accelerator)
 
-### 02 · RISC-V SoC with Custom ML Accelerator
+### 🟪 02 · RISC-V SoC with Custom ML Accelerator
 
-**PicoRV32 · AXI4-Lite · APB · Q4.4 fixed point · Bare-metal firmware**
+<img src="https://img.shields.io/badge/CORE-RISC--V-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/BUS-AXI4--Lite-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/DOMAIN-SoC-DB2777?style=flat-square" />
 
 A processor-based SoC integrating a PicoRV32 RV32IM core, an AXI4-Lite-to-APB bridge, BRAM, a fixed-point matrix-multiplication accelerator, APB UART and memory-mapped control.
 
@@ -87,9 +93,9 @@ A processor-based SoC integrating a PicoRV32 RV32IM core, an AXI4-Lite-to-APB br
 
 [**Explore the RISC-V SoC repository →**](https://github.com/pallavibehurageek-cyber/RISC-V-SoC-Custom-ML-Accelerator)
 
-### 03 · AXI4-Lite Programmable PWM IP Core
+### 🟩 03 · AXI4-Lite Programmable PWM IP Core
 
-**Verilog · AMBA AXI4-Lite · FSMs · Register interface · Self-checking simulation**
+<img src="https://img.shields.io/badge/RTL-VERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/INTERFACE-AXI4--Lite-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/TYPE-PERIPHERAL-16A34A?style=flat-square" />
 
 A synthesizable memory-mapped PWM peripheral with independent read and write control paths.
 
@@ -101,9 +107,9 @@ A synthesizable memory-mapped PWM peripheral with independent read and write con
 
 [**Explore the AXI4-Lite PWM repository →**](https://github.com/pallavibehurageek-cyber/AXI4-Lite-Programmable-PWM-Peripheral-IP-Core)
 
-### 04 · APB RAM — SystemVerilog RTL Design & Verification
+### 🟧 04 · APB RAM — SystemVerilog RTL Design & Verification
 
-**SystemVerilog · AMBA APB · Testbench components · Scoreboard**
+<img src="https://img.shields.io/badge/RTL-SYSTEMVERILOG-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/INTERFACE-APB-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/FOCUS-VERIFICATION-EA580C?style=flat-square" />
 
 An APB RAM peripheral accompanied by a modular verification environment.
 
@@ -117,15 +123,15 @@ The project is still undergoing functional debug and scoreboard refinement.
 
 [**Explore the APB RAM repository →**](https://github.com/pallavibehurageek-cyber/SV-APB-RAM-RTL-Design-Verification)
 
-### 05 · EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer
+### 🟥 05 · EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer
 
-**Python · Verilog · NSGA-II · FP4/FP8 · FPGA-oriented design exploration**
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/VERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/OPTIMIZATION-DB2777?style=flat-square" />
 
 Explores stage-wise precision assignment for FFT hardware variants. A Python-driven search flow studies trade-offs between numerical fidelity and implementation costs such as LUT area, power and latency.
 
 [**Explore the EvoFFT repository →**](https://github.com/pallavibehurageek-cyber/EvoFFT-StageWise-MixedPrecision-FFT-Optimizer)
 
-## Active hardware experiments
+## 🧪 Active hardware experiments
 
 <table>
   <tr>
@@ -142,7 +148,7 @@ Explores stage-wise precision assignment for FFT hardware variants. A Python-dri
   </tr>
 </table>
 
-## Additional digital design
+## 🧩 Additional digital design
 
 - [Weighted Round-Robin Arbiter](https://github.com/pallavibehurageek-cyber/Weighted-Round-Robin-Arbiter-Verilog) — credit-based arbitration and grant logic.
 - [5-stage MIPS32 CPU](https://github.com/pallavibehurageek-cyber/RISC-MIPS32-CPU-Verilog) — pipelined processor implementation.
@@ -153,7 +159,7 @@ Explores stage-wise precision assignment for FFT hardware variants. A Python-dri
 
 ---
 
-## Technical toolkit
+## 🛠️ Technical toolkit
 
 <details open>
 <summary><strong>HDL, RTL & digital architecture</strong></summary>
@@ -213,7 +219,7 @@ ANSYS HFSS · Altair FEKO · ESP32 · Arduino IDE · Vivaldi antennas · SIW ant
 
 ---
 
-## Experience & technical programmes
+## 🎓 Experience & technical programmes
 
 | Experience / programme | Details |
 |---|---|
@@ -224,7 +230,7 @@ ANSYS HFSS · Altair FEKO · ESP32 · Arduino IDE · Vivaldi antennas · SIW ant
 | **NSI-45 Technical Poster** | Presented “Graphene MEMS RF Switches for UAV Radar Beam Steering” at Osmania University, January 2026. |
 | **Jijnasa 2K25** | Paper-presentation recognition. |
 
-## Engineering workflow
+## ⚙️ Engineering workflow
 
 <p align="center">
   <strong>UNDERSTAND THE ARCHITECTURE</strong> &nbsp; → &nbsp;
