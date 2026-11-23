@@ -72,7 +72,7 @@ A 64-processing-element matrix-compute accelerator using weight-stationary dataf
 **Repository-reported implementation evidence**
 - Each processing element performs a multiply-accumulate operation per cycle.
 - The documented directed self-checking testbench reports 80/80 checks passing.
-- Physical-design reports include process-specific area, timing, utilization and power estimates.
+- Physical-design reports include process-specific area, timing, utilization and power estimates. The ASAP7 PDN analysis also records an unresolved worst-case IR-drop issue, so these are exploratory implementation results rather than full sign-off evidence.
 - A Caravel integration / tapeout-track evaluation is documented separately; the current precheck is **8/13 passing**, so tapeout approval or fabrication is not claimed.
 
 [**Explore the 8×8 systolic-array repository →**](https://github.com/pallavibehurageek-cyber/8x8-Weight-Stationary-Systolic-Array)
