@@ -63,7 +63,21 @@ My strongest current interests are **RTL design, SystemVerilog-based verificatio
 
 ## 🚀 Selected engineering projects
 
-### 🟦 01 · Continuous-Flow 4096-Point FFT / IFFT Accelerator
+### 🟦 01 · 8×8 Weight-Stationary Systolic Array
+
+<img src="https://img.shields.io/badge/RTL-SYSTEMVERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/ARCHITECTURE-WEIGHT--STATIONARY-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/FOCUS-RTL%20TO%20GDS-7C3AED?style=flat-square" />
+
+A 64-processing-element matrix-compute accelerator using weight-stationary dataflow. The repository documents SystemVerilog RTL, a self-checking simulation environment and physical-design experiments across SkyWater 130 nm and ASAP7 7 nm, with an additional IHP SG13G2 flow.
+
+**Repository-reported implementation evidence**
+- Each processing element performs a multiply-accumulate operation per cycle.
+- The documented directed self-checking testbench reports 80/80 checks passing.
+- Physical-design reports include process-specific area, timing, utilization and power estimates.
+- A Caravel integration / tapeout-track evaluation is documented separately; the current precheck is **8/13 passing**, so tapeout approval or fabrication is not claimed.
+
+[**Explore the 8×8 systolic-array repository →**](https://github.com/pallavibehurageek-cyber/8x8-Weight-Stationary-Systolic-Array)
+
+### 🟦 02 · Continuous-Flow 4096-Point FFT / IFFT Accelerator
 
 <img src="https://img.shields.io/badge/RTL-VERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/DOMAIN-DSP-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/FOCUS-PPA-7C3AED?style=flat-square" />
 
@@ -79,7 +93,7 @@ A continuous-flow, ROM-free FFT/IFFT architecture based on a conflict-free radix
 
 [**Explore the FFT/IFFT repository →**](https://github.com/pallavibehurageek-cyber/Jointly-Optimized-Continuous-Flow-4096-Point-FFT-IFFT-Accelerator)
 
-### 🟪 02 · RISC-V SoC with Custom ML Accelerator
+### 🟪 03 · RISC-V SoC with Custom ML Accelerator
 
 <img src="https://img.shields.io/badge/CORE-RISC--V-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/BUS-AXI4--Lite-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/DOMAIN-SoC-DB2777?style=flat-square" />
 
@@ -93,7 +107,7 @@ A processor-based SoC integrating a PicoRV32 RV32IM core, an AXI4-Lite-to-APB br
 
 [**Explore the RISC-V SoC repository →**](https://github.com/pallavibehurageek-cyber/RISC-V-SoC-Custom-ML-Accelerator)
 
-### 🟩 03 · AXI4-Lite Programmable PWM IP Core
+### 🟩 04 · AXI4-Lite Programmable PWM IP Core
 
 <img src="https://img.shields.io/badge/RTL-VERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/INTERFACE-AXI4--Lite-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/TYPE-PERIPHERAL-16A34A?style=flat-square" />
 
@@ -107,7 +121,7 @@ A synthesizable memory-mapped PWM peripheral with independent read and write con
 
 [**Explore the AXI4-Lite PWM repository →**](https://github.com/pallavibehurageek-cyber/AXI4-Lite-Programmable-PWM-Peripheral-IP-Core)
 
-### 🟧 04 · APB RAM — SystemVerilog RTL Design & Verification
+### 🟧 05 · APB RAM — SystemVerilog RTL Design & Verification
 
 <img src="https://img.shields.io/badge/RTL-SYSTEMVERILOG-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/INTERFACE-APB-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/FOCUS-VERIFICATION-EA580C?style=flat-square" />
 
@@ -123,7 +137,7 @@ The project is still undergoing functional debug and scoreboard refinement.
 
 [**Explore the APB RAM repository →**](https://github.com/pallavibehurageek-cyber/SV-APB-RAM-RTL-Design-Verification)
 
-### 🟥 05 · EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer
+### 🟥 06 · EvoFFT — Stage-Wise Mixed-Precision FFT Optimizer
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/VERILOG-2563EB?style=flat-square" /> <img src="https://img.shields.io/badge/OPTIMIZATION-DB2777?style=flat-square" />
 
@@ -151,6 +165,7 @@ Explores stage-wise precision assignment for FFT hardware variants. A Python-dri
 ## 🧩 Additional digital design
 
 - [Weighted Round-Robin Arbiter](https://github.com/pallavibehurageek-cyber/Weighted-Round-Robin-Arbiter-Verilog) — credit-based arbitration and grant logic.
+- [Tomasulo Microarchitecture Lab](https://github.com/pallavibehurageek-cyber/Tomasulo-Microarchitecture-Lab) — SystemVerilog/VHDL study implementations covering branch prediction, scoreboarding, reservation stations, reorder buffers and load/store queues.
 - [5-stage MIPS32 CPU](https://github.com/pallavibehurageek-cyber/RISC-MIPS32-CPU-Verilog) — pipelined processor implementation.
 - [8-bit UART Communication System](https://github.com/pallavibehurageek-cyber/8-bit-RTL-UART-Communication-System) — transmitter/receiver RTL and loopback testbench.
 - [128-Point Fixed-Point FFT Accelerator](https://github.com/pallavibehurageek-cyber/128-Point-Fixed-Point-FFT-Hardware-Accelerator) — RTL and testbench are present; simulation and numerical verification remain pending.
@@ -223,12 +238,12 @@ ANSYS HFSS · Altair FEKO · ESP32 · Arduino IDE · Vivaldi antennas · SIW ant
 
 | Experience / programme | Details |
 |---|---|
-| **DRDL — Design of Controller for Embedded System** | FPGA/VHDL controller work using Xilinx Spartan-3AN, hardware/software interlocks and RS-232 serial communication. |
+| **DRDL — Project Intern (two internships)** | Completed two project-internship engagements at DRDL. Documented work includes “Design of Controller for Embedded System,” involving FPGA/VHDL controller work using Xilinx Spartan-3AN, hardware/software interlocks and RS-232 serial communication. |
 | **NIELIT × SoCTeamup Semiconductors** | 30-hour bootcamp covering RTL, IP integration and SoC signoff under a MeitY-sponsored semiconductor EdTech initiative. |
 | **IETE Hyderabad Centre** | One-month programme on Embedded IoT Application Development. |
 | **Indo-Dutch Cyber Security School 2025** | 30 learning hours and 30 CPE credits; certificate of participation. |
 | **NSI-45 Technical Poster** | Presented “Graphene MEMS RF Switches for UAV Radar Beam Steering” at Osmania University, January 2026. |
-| **Jijnasa 2K25** | Paper-presentation recognition. |
+| **National-level Technical Event** | Second Prize. |
 
 ## ⚙️ Engineering workflow
 
